@@ -1,0 +1,74 @@
+{
+    "id": "39236",
+    "name": "KFC",
+    "cloudinaryImageId": "f01666ac73626461d7455d9c24005cd4",
+    "locality": "Central",
+    "areaName": "Park Street Area",
+    "costForTwo": "₹450 for two",
+    "cuisines": [
+        "Burgers",
+        "Biryani",
+        "American",
+        "Snacks",
+        "Fast Food"
+    ],
+    "avgRating": 4.3,
+    "feeDetails": {
+        "restaurantId": "39236",
+        "fees": [
+            {
+                "name": "BASE_DISTANCE",
+                "fee": 5400
+            },
+            {
+                "name": "BASE_TIME"
+            },
+            {
+                "name": "ANCILLARY_SURGE_FEE"
+            }
+        ],
+        "totalFee": 5400
+    },
+    "parentId": "547",
+    "avgRatingString": "4.3",
+    "totalRatingsString": "10K+",
+    "promoted": true,
+    "adTrackingId": "cid=9732314~p=1~eid=0000018c-4f03-adea-1af0-cf4300fd015c~srvts=1702132690410~45995",
+    "sla": {
+        "deliveryTime": 34,
+        "lastMileTravel": 3,
+        "serviceability": "SERVICEABLE",
+        "slaString": "34 mins",
+        "lastMileTravelString": "3.0 km",
+        "iconType": "ICON_TYPE_EMPTY"
+    },
+    "availability": {
+        "nextCloseTime": "2023-12-10 02:59:00",
+        "opened": true
+    },
+    "badges": {},
+    "isOpen": true,
+    "type": "F",
+    "badgesV2": {
+        "entityBadges": {
+            "textBased": {},
+            "imageBased": {},
+            "textExtendedBadges": {}
+        }
+    },
+    "aggregatedDiscountInfoV3": {
+        "header": "20% OFF",
+        "subHeader": "UPTO ₹50"
+    },
+    "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {},
+            "video": {}
+        }
+    },
+    "reviewsSummary": {},
+    "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+    "restaurantOfferPresentationInfo": {}
+}
